@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-plugin-goatcounter",
+  "name": "@akanoa/vuepress-plugin-goatcounter",
   "version": "1.0.5",
   "description": "goatcounter plugin for vuepress",
   "keywords": [
